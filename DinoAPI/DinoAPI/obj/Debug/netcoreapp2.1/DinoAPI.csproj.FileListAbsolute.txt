@@ -1,0 +1,11 @@
+C:\code\dinosAPI\DinoAPI\DinoAPI\bin\Debug\netcoreapp2.1\DinoAPI.deps.json
+C:\code\dinosAPI\DinoAPI\DinoAPI\bin\Debug\netcoreapp2.1\DinoAPI.runtimeconfig.json
+C:\code\dinosAPI\DinoAPI\DinoAPI\bin\Debug\netcoreapp2.1\DinoAPI.runtimeconfig.dev.json
+C:\code\dinosAPI\DinoAPI\DinoAPI\bin\Debug\netcoreapp2.1\DinoAPI.dll
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.csprojResolveAssemblyReference.cache
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.csproj.CoreCompileInputs.cache
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.RazorAssemblyInfo.cache
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.RazorAssemblyInfo.cs
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.AssemblyInfoInputs.cache
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.AssemblyInfo.cs
+C:\code\dinosAPI\DinoAPI\DinoAPI\obj\Debug\netcoreapp2.1\DinoAPI.RazorTargetAssemblyInfo.cache
